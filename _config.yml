@@ -12,12 +12,12 @@ pygments: true
 #
 title : I LOVE YOU , THE WORLD
 tagline: Site Tagline
-author:true
-  name :shi linshan(muye)
-  email :muyeandmuye@gmail.com
-  github :muyeandmuye
-  twitter :username
-  feedburner :feedname
+author: true
+name: shi linshan(muye)
+email: muyeandmuye@gmail.com
+github: muyeandmuye
+twitter: username
+feedburner: feedname
 
 # The production_url is only used when full-domain names are needed
 # such as sitemap.txt 
